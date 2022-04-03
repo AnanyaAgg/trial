@@ -11,7 +11,7 @@ import SwiftUI
 struct anti_masker_App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwiftUIView()
         }
     }
 }
